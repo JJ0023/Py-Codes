@@ -11,6 +11,5 @@ if __name__ == '__main__':
                 if (i+j+k)!=n:
                     l.append([i,j,k])'''
     print(l)
-
-
+    print("End of Program")
 
